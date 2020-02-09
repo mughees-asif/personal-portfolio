@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://bymughees.com/sitemap.xml
+Host: https://bymughees.com
